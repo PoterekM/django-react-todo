@@ -46,5 +46,5 @@ _In order to copy this directory to your computer locally:_
 * A user cannot currently create a todo item if it does not have a description
 
 ## Acknowledgements
-* This was a great tutorial from [Digital Ocean](https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react) for the great tutorial
+* This was a great tutorial from [Digital Ocean](https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react).
 
